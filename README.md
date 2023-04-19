@@ -9,7 +9,7 @@ Passionate web developer, looking to learn new technologies and work as part of 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [om-bhatnagar.com](http://om-bhatnagar.com)
 * ✉️  You can contact me at [omishb2001@gmail.com](mailto:omishb2001@gmail.com)
-* 🧠  I'm learning Blockchain
+* 🧠  I'm learning AWS.
 * 🤝  I'm open to collaborating on full stack projects.
 * ⚡  Looking forward to turn even more coffee into code.
 
