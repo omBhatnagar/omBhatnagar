@@ -7,7 +7,6 @@ Full Stack Developer
 Passionate web developer, looking to learn new technologies and work as part of a productive team.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [om-bhatnagar.com](http://om-bhatnagar.com)
 * ✉️  You can contact me at [omishb2001@gmail.com](mailto:omishb2001@gmail.com)
 * 🧠  I'm learning AWS.
 * 🤝  I'm open to collaborating on full stack projects.
